@@ -2,7 +2,7 @@
       Thomas Orlando Suarez Rivera.
       Steven Camilo Zuluaga Gomez.
       
-Materia: Fundamentos De Diseño De Software.
+## Materia: Fundamentos De Diseño De Software.
 
 Docente: Juan David Rodriguez Martinez.
 
