@@ -1,4 +1,4 @@
-** Estudiantes:
+# Estudiantes:
       Thomas Orlando Suarez Rivera.
       Steven Camilo Zuluaga Gomez.
       
